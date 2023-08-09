@@ -1,6 +1,6 @@
 # grupo27
 
 ## Estados de git.
--**__Committed :chart:__**
--**__Modified :pencil2:__**
--**__Staged  :floppy_disk:__**
+- ***Committed :chart:***
+- ***Modified :pencil2:***
+- ***Staged  :floppy_disk:***
